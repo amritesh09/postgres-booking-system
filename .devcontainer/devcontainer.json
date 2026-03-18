@@ -1,0 +1,8 @@
+{
+  "name": "Postgres Booking System",
+  "dockerComposeFile": "docker-compose.yml",
+  "service": "app",
+  "workspaceFolder": "/workspace",
+  "shutdownAction": "stopCompose",
+  "postCreateCommand": "pip install -r requirements.txt"
+}
