@@ -1,8 +1,3 @@
-Good catch — that happens when code blocks accidentally include extra markers. Here is a **clean, fully valid Markdown file** with **no stray IDs or formatting issues**. You can copy this directly.
-
----
-
-```markdown
 # PostgreSQL High-Contention Booking System
 
 ## Overview
