@@ -252,20 +252,6 @@ python load_test.py
 
 ---
 
-## Why This Project Exists
-
-This project was built to understand:
-
-- Transaction isolation
-- Row-level locking
-- Lost update problem
-- Optimistic vs pessimistic concurrency
-- Real-world contention behavior
-
-It complements distributed system learning (e.g., rate limiter) with strong consistency guarantees in relational systems.
-
----
-
 ## Future Improvements
 
 - Add retry logic for optimistic locking
